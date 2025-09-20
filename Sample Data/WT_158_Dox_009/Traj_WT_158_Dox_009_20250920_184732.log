@@ -1,0 +1,5 @@
+condition: WT_158_Dox
+time_step: 0.01
+micron_per_px: 0.11
+min_track_len_linfit: 11
+tlag_cutoff_linfit: 10
