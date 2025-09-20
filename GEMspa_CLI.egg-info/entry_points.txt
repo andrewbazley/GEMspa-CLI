@@ -1,0 +1,2 @@
+[console_scripts]
+gemspa-cli = gemspa.cli:main
