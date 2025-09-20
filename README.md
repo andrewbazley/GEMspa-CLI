@@ -2,8 +2,8 @@
 
 Version 1.6
 
-CLI for the GEMspa analysis pipeline (based on Keegan *et al.*), with extras for TrackMate input, colored track overlays, MSD-vs-τ plots, and ensemble step-size analysis.
-
+CLI for the GEMspa analysis pipeline (based on Keegan *et al.*), with extras for TrackMate input, colored track overlays, MSD-vs-τ plots, and ensemble step-size analysis (originally written by David C. Durán-Chaparro).
+https://www.biorxiv.org/content/10.1101/2023.06.26.546612v1
 ---
 
 ## 1) Create a virtual environment (recommended)
